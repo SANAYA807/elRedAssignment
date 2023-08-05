@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/elRedAssignment/static/css/main.ce1a2de7.css",
+    "main.js": "/elRedAssignment/static/js/main.0a3a079f.js",
+    "static/js/787.0f5388ae.chunk.js": "/elRedAssignment/static/js/787.0f5388ae.chunk.js",
+    "index.html": "/elRedAssignment/index.html",
+    "main.ce1a2de7.css.map": "/elRedAssignment/static/css/main.ce1a2de7.css.map",
+    "main.0a3a079f.js.map": "/elRedAssignment/static/js/main.0a3a079f.js.map",
+    "787.0f5388ae.chunk.js.map": "/elRedAssignment/static/js/787.0f5388ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce1a2de7.css",
+    "static/js/main.0a3a079f.js"
+  ]
+}
