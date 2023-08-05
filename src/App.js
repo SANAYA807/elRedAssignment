@@ -1,25 +1,24 @@
-import logo from './logo.svg';
 import './App.css';
+import MyBio from './Pages/MyBio';
+import MyBioEdit from './Pages/MyBioEdit';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import SkillsEdit from './Pages/SkillsEdit';
+import PDF from './Components/PDF';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {/* <PDF /> */}
+      <Router>
+        <Routes>
+          <Route path='/' element={<MyBio />} />
+          <Route path='/MyBioEdit' element={<MyBioEdit />} />
+          <Route path='/EditSkilss' element={<SkillsEdit />} />
+        </Routes>
+      </Router>
     </div>
   );
+
 }
 
 export default App;
