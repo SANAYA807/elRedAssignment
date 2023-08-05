@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Elred/static/css/main.ce1a2de7.css",
+    "main.js": "/Elred/static/js/main.de2298d2.js",
+    "static/js/787.0f5388ae.chunk.js": "/Elred/static/js/787.0f5388ae.chunk.js",
+    "index.html": "/Elred/index.html",
+    "main.ce1a2de7.css.map": "/Elred/static/css/main.ce1a2de7.css.map",
+    "main.de2298d2.js.map": "/Elred/static/js/main.de2298d2.js.map",
+    "787.0f5388ae.chunk.js.map": "/Elred/static/js/787.0f5388ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce1a2de7.css",
+    "static/js/main.de2298d2.js"
+  ]
+}
